@@ -1,5 +1,5 @@
 # Fake News Detection
-
+ 
 ### Group - Kaival Patel, Maanav Singh, Arogya Dhakal, Bhavith Manapoty
 
 ## Overview of the Problem
